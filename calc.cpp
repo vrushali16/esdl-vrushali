@@ -5,4 +5,6 @@
 int main()
 {
   cout<<"This is a calculator Application";
+  cout<<"This file is updated";
+  cout<<"Welcome to GitHub platform;
 }
